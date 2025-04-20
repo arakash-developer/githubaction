@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>I Am Comming From Ci cd pipeline</h1>
+      <h1>This React application was built and deployed automatically by a CI/CD pipeline</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
